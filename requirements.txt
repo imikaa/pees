@@ -1,0 +1,7 @@
+matplotlib==3.3.4
+numpy==1.20.1
+pandas==1.2.4
+opencv_python==4.5.3.56
+streamlit==1.10.0
+streamlit_option_menu==0.3.2
+nltk==3.7
